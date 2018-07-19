@@ -1,0 +1,6 @@
+framework module RSCategoryKit {
+  umbrella header "RSCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

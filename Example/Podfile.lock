@@ -1,0 +1,16 @@
+PODS:
+  - RSCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - RSCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  RSCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RSCategoryKit: faa5289838a570b168c5aeeb55881f3a35187f5d
+
+PODFILE CHECKSUM: 008433a99d8f3a221181d6d7ae98a63f4273239b
+
+COCOAPODS: 1.5.3
